@@ -1,0 +1,42 @@
+#header{
+	background-color: red;
+	 height:100px;
+	 position: fixed;
+	 /*↑固定する*/
+	 top: 30px;
+	 /*↑高さ*/
+	 left:: 0px;
+	 /*左詰め*/
+	 width: 100%;
+}
+
+
+#main{
+	background-color: blue;
+	height:400px;#header{
+	background-color: red;
+	 height:100px;
+	 position: fixed;　
+	 /*↑固定する*/
+	 top: 30px;
+	 /*↑高さ*/
+	 left:: 0px;
+	 /*左詰め*/
+	 width: 100%;
+}
+}
+
+#main2{
+	background-color: brown;
+	height:400px;
+}
+
+#main3{
+	background-color: skyblue;
+	height:400px;
+}
+
+#footer{
+	background-color: green;
+	height:100px;
+}
